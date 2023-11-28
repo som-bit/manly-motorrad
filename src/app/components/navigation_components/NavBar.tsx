@@ -1,7 +1,8 @@
 import Link from "next/link";
 import Container from "../Container";
-import { Input } from "@/components/ui/input"
+
 import { Gruppo } from 'next/font/google'
+import { Input } from "@/components/ui/Input";
 
 
 const titanOne = Gruppo({
